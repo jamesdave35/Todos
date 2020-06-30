@@ -5,7 +5,7 @@ With Todos users can create tasks or reminders and set due dates and priorities 
 Please feel free to create your account or user the demo account below;
 
 Email: test1@gmail.com, 
-Password: Password
+Password: password
 
 Thanks
 
